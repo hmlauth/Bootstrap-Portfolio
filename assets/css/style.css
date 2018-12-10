@@ -20,24 +20,38 @@ h1 {
     padding: 20px;
 }
 
-.section {
-    border: 1px solid grey;
-    padding: 10px;
-}
-
 h2 {
     padding-bottom: 10px;
-    color:  #4aaaa5;
+    color:#4aaaa5;
+}
+
+h3 {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    position: absolute;
+    bottom: 1px;
+    width: 200px;
+}
+
+h1, h2, h3 {
+    font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+    
+}
+
+col {
+    position: relative;
 }
 
 footer {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
-    height: 60px;
-    line-height: 60px;
-    background-color: #f8f9fa!;
-    color: black;
+    border-top: 5px solid #777777;
     text-align: center;
-    border-top: 3px solid grey;;
+    height: 60px;
+    font-size: small;
+    margin-top: 10px;
+    left: 0;
+    line-height: 60px;
 }
