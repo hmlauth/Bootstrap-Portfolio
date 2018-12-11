@@ -48,6 +48,10 @@ button {
     color: white;
 }
 
+img {
+    max-width: 100%;
+}
+
 footer {
     position: fixed;
     bottom: 0;
