@@ -43,6 +43,11 @@ col {
     position: relative;
 }
 
+button {
+    background-color: #4aaaa5;
+    color: white;
+}
+
 footer {
     position: fixed;
     bottom: 0;
