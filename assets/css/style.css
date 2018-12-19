@@ -32,7 +32,18 @@ h3 {
     text-align: center;
     position: absolute;
     bottom: 1px;
-    width: 200px;
+    width: 100%;
+    position: relative;
+}
+
+.image-label {
+    position: relative;
+}
+
+.img-css {
+    width: auto;
+    flex: 1;
+    max-width: 20%;
 }
 
 h1, h2, h3 {
