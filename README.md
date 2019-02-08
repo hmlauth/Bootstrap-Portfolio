@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-HW Week 2 - Learning Bootstrap
+This site shows the Basic-Portfolio using Bootstrap. 
